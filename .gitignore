@@ -1,0 +1,94 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# MonoDevelop
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio 2019/2022 cache/options
+.vs/
+.vscode/
+
+# Rider
+.idea/
+
+# Rider project files
+*.sln.iml
+
+# NuGet packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+# except build/, which is used as an MSBuild target.
+!**/packages/build/
+!**/packages/repositories.config
+
+# NuGet v3
+*.nuget.props
+*.nuget.targets
+
+# Microsoft Azure Web Apps
+csx/
+*.build.csdef
+
+# Backup & report files
+*.bak
+*.backup
+*.BLOB
+*.csv
+*.dbmdl
+*.dbproj.user
+*.log
+*.mdf
+*.ndf
+*.rdl.data
+*.rdl.designer.cs
+*.sbr
+*.tlog
+*.vspscc
+*.vssscc
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Visual Studio Code
+.vscode/*
+
+# Others
+*.pdb
+*.exe
+*.dll
+*.cache
+*.ide
+*.pfx
+*.publishsettings
+*.publish.xml
+
+# Rider project-specific files
+.idea/
+.idea/*
+
+# IIS Express
+/.vs/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
