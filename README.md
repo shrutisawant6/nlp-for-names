@@ -12,7 +12,7 @@ _Followed by:_ Am a developer, lets use regular expressions. Uh but these files 
 
 Am doomed! ✋😮🤚
 
-Absolutely not! Use simple **NLP(Natural Language Processing)** and its sorted! 
+Absolutely not! Use simple **NLP(Natural Language Processing)** and its sorted!
 
 **Demo:**
 
